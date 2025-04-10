@@ -3,8 +3,8 @@
 //           Program to convert a number to Binary
 
 #include <iostream>
-#include "pre_decimalStack.h"
-#include "post_decimalQueue.h"
+#include "decimalStack.h"
+#include "decimalQueue.h"
 
 void convertToBinary(double, int);//Function Definition for Conversion function
 
