@@ -1,6 +1,6 @@
 #pragma once
-#ifndef PRE_DECIMALSTACK_H
-#define PRE_DECIMALSTACK_H
+#ifndef DECIMALSTACK_H
+#define DECIMALSTACK_H
 
 #include <iostream>
 
