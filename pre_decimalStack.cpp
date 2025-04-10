@@ -1,5 +1,5 @@
 #include <iostream>
-#include "pre_decimalStack.h"
+#include "decimalStack.h"
 
 using namespace std;
 
